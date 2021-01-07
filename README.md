@@ -3,11 +3,13 @@
 
 ## AVIATION ACCIDENT ANALYSIS
 
+
 This project is meant to explore, analyse and visualize aviation accidents and related factors such as reasons, survival rates, fatalities, locations etc. Detailed analyses of followinf factors:
       -The planes crashed per year.
       -People aboard per year during crashes.
       -People dead per year during crashes.
       -People survived per year during crashes.
+      
 Dataset - Airplane Crashes and Fatalities since 1908
 ----------------------------------------------------
 
@@ -67,3 +69,16 @@ Dataset - Airplane Crashes and Fatalities since 1908
   6. Importing the second Dataset
   7. EDA (Fatalitites vs Year)
   8. EDA (Operators)
+
+License
+--------------------------------
+    The dataset is covered by the following license: Open Database License (ODbL) v1.0
+    https://opendata.socrata.com/Government/Airplane-Crashes-and-Fatalities-Since-1908/q2te-8cvq
+    
+Contact
+----------------------------------
+    Dataset Link-  https://www.kaggle.com/saurograndi/airplane-crashes-since-1908
+
+Run
+------------------------------
+    To run this project you will need an active Pythond distribution such as Anaconda or ActivePython
