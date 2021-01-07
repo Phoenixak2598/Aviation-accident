@@ -1,7 +1,8 @@
 # Aviation-accident
-Working with aviation accident by year
+### Working with aviation accident by year
 
-AVIATION ACCIDENT ANALYSIS
+## AVIATION ACCIDENT ANALYSIS
+
 This project is meant to explore, analyse and visualize aviation accidents and related factors such as reasons, survival rates, fatalities, locations etc. Detailed analyses of followinf factors:
       -The planes crashed per year.
       -People aboard per year during crashes.
